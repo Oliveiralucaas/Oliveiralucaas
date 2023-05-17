@@ -1,14 +1,10 @@
-# <h1>🌌 Hi, I'm Lucas, a Back-end developer
+<h1># 🌌 Hi, I'm Lucas, a Back-end developer
  
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@dicasparadevs) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 👨🏻‍💻 &nbsp; Comecei minha jornada na programação há alguns anos, quando eu precisei desenvolver sites simples para amigos e familiares. Foi um desafio e tanto, mas, depois de algumas pesquisas, eu consegui criar algo bem humilde. Porém, depois disso eu nao tive mais contato com a programacao e foi em um dia aleatorio de um domingo em familia que um tio me seu a ideia de estudar mais a fundo essa area, segui seu conselho e foi durante essa busca que descobri o potencial incrível da programação em ajudar as pessoas de diversas formas. Foi assim que eu conheci o mundo fascinante da tecnologia e suas possibilidades. Desde então, fiquei interessado em aprender mais sobre a programação e suas inúmeras aplicações.
 
-
+ 
 <h2>🧰 Linguagens e ferramentas</h2>
 
 <img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
