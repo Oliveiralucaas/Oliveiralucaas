@@ -1,4 +1,4 @@
-# 🌌 Hi , I'm Lucas Gabriel , a Back-end developer
+# 🌌 Hi, I'm Lucas, a Back-end developer
  
 **`Engenheiro de Software (Desenvolvedor Web/Desenvolvedor Front-End/Designer)`**
 
