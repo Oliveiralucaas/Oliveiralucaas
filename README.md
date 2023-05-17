@@ -2,7 +2,11 @@
  
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Comecei minha jornada na programação há alguns anos, quando eu precisei desenvolver sites simples para amigos e familiares. Foi um desafio e tanto, mas, depois de algumas pesquisas, eu consegui criar algo bem humilde. Porém, depois disso eu nao tive mais contato com a programacao e foi em um dia aleatorio de um domingo em familia que um tio me seu a ideia de estudar mais a fundo essa area, segui seu conselho e foi durante essa busca que descobri o potencial incrível da programação em ajudar as pessoas de diversas formas. Foi assim que eu conheci o mundo fascinante da tecnologia e suas possibilidades. Desde então, fiquei interessado em aprender mais sobre a programação e suas inúmeras aplicações.
+- 👨🏻‍💻 &nbsp; Comecei minha jornada na programação há alguns anos, quando precisei desenvolver sites simples para amigos e familiares. Foi um desafio e tanto, mas, depois de algumas pesquisas, consegui criar algo bem humilde.
+
+Porém, depois disso, não tive mais contato com a programação. Foi em um dia aleatório de um domingo em família que um tio me deu a ideia de estudar mais a fundo essa área. Segui seu conselho e descobri o potencial incrível da programação em ajudar as pessoas de diversas formas.
+
+Foi assim que conheci o mundo fascinante da tecnologia e suas possibilidades. Desde então, fiquei interessado em aprender mais sobre a programação e suas inúmeras aplicações.
 
  
 <h2>🧰 Linguagens e ferramentas</h2>
