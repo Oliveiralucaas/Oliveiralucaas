@@ -2,11 +2,10 @@
  
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Comecei minha jornada na programação há alguns anos, quando precisei desenvolver sites simples para amigos e familiares. Foi um desafio e tanto, mas, depois de algumas pesquisas, consegui criar algo bem humilde.
-Porém, depois disso, não tive mais contato com a programação. Foi em um dia aleatório no encontro de família que um parente me deu a ideia de estudar mais a fundo essa área. Segui seu conselho e descobri o potencial incrível da programação em ajudar as pessoas de diversas formas.
-Foi assim que conheci o mundo fascinante da tecnologia e suas possibilidades. Desde então, fiquei interessado em aprender mais sobre a programação e suas inúmeras aplicações.
- - 💚 &nbsp; Por ser um curioso de natureza e ter um desejo natural de entender como as coisas funcionam, concentrei meus esforços no back-end, buscando aprofundar meus conhecimentos e habilidades nessa área.
+- 👨🏻‍💻 &nbsp;Desde o tempo em que eu era estudante, sempre tive o sonho de ter meu próprio negócio. Foi por esse motivo que decidi começar a estudar marketing digital por conta própria. Durante meus estudos, fui apresentado à criação de sites, inicialmente com o WordPress. Embora tenha criado uma página simples, não fiquei satisfeito e busquei informações para torná-la mais atrativa.
 
+Durante minhas pesquisas, encontrei conteúdos de programação e, como uma pessoa curiosa que sou, cliquei no vídeo e decidi explorar o assunto. Fiquei impressionado com a forma como as coisas funcionavam com apenas letras de código e comecei a pesquisar mais sobre programação. Foi assim que descobri o incrível potencial da programação.
+ - 💚 &nbsp; Desde então, tenho me empenhado em aprender cada vez mais sobre programação e suas aplicações. Como sou uma pessoa curiosa por natureza e tenho um desejo natural de entender como as coisas funcionam, concentrei meus esforços no back-end, buscando aprofundar meus conhecimentos e habilidades nessa área.
  
 <h2>🧰 Linguagens e ferramentas</h2>
 
