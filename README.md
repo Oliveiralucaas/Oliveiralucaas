@@ -42,7 +42,7 @@ Hi, I'm Lucas Gabriel!
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-   =
+   
 ### 🧰 Frameworks and Libraries
 
 <p>
