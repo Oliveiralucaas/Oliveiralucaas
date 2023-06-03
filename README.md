@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Lucas Gabriel!
+Hi, I'm Lucas! 
 	
 </h1>
 <p align="center">
@@ -23,7 +23,6 @@ Hi, I'm Lucas Gabriel!
 💻 Sou um Desenvolvedor Back-End autodidata
 📚 Atualmente cursando Ánalise e Desenvolvimento de Sistemas
 📝 Tenho um forte interesse em Machine Learning e Inteligência Artificial
-🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Principais Linguagens: JavaScript
 🚩 Interessado no desenvolvimento de aplicativos Back-End com NodeJS
 </pre>
@@ -46,21 +45,13 @@ Hi, I'm Lucas Gabriel!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Oliveiralucaas"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-    <a href="https://github.com/Oliveiralucaas"><img alt="NodeJS" src="https://img.shields.io/badge/Node%20-%23150458.svg?logo=Node&logoColor=white"></a>
+   
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+   
 </p>
 
 ### 💻 Software and Tools
