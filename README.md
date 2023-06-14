@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá! Meu nome Lucas Gabriel! 
+Hello! I'm Lucas Gabriel.
 	
 </h1>
 <p align="center">
