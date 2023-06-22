@@ -24,7 +24,7 @@ Hello! I'm Lucas Gabriel.
 📚 Atualmente cursando Ánalise e Desenvolvimento de Sistemas
 📝 Tenho um forte interesse em Machine Learning e Inteligência Artificial
 🌟 Principais Linguagens: JavaScript | Node.js | MySQL | MongoDB | Express.js
-🚩 Interessado no desenvolvimento de aplicativos Back-End com NodeJS
+🚩 Interessado no desenvolvimento de aplicativos Back-End com Node.JS
 </pre>
 <hr>
 
