@@ -15,7 +15,7 @@
   ######
 
   
- <p align="center">🤝 Conecte-se comigo!</p>
+## <p align="center">🤝 Conecte-se comigo!</p>
 <p align="center">
 		<a href="mailto:oliveiraslucaas@gmail.com" alt="Email">
 		<img width="73" hspace="0" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" />
