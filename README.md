@@ -5,7 +5,7 @@
 </p>
 <hr>
 
-## 💻 Tecnologias
+## 💻 Tecnologias e Ferramentas
 
 - :zap: Main language: <img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
