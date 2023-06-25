@@ -14,7 +14,8 @@
 - 📡 Backend: <img align="center" alt="Lucas-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"><img align="center" alt="Lucas-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"><img align="center" alt="Lucas-DB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" Title="MongoDB"><img align="center" alt="Lucas-NoSql" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" Title="MySQL"><img align="center" alt="Lucas-docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker" Title="Node.js"><img align="center" alt="Lucas-Postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman" Title="Postman">
   ######
 
-## 🤝 Conecte-se comigo!
+  
+ <p align="center">🤝 Conecte-se comigo!</p>
 <p align="center">
 		<a href="mailto:oliveiraslucaas@gmail.com" alt="Email">
 		<img width="73" hspace="0" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" />
