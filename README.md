@@ -17,7 +17,7 @@
 ## 🤝 Conecte-se comigo!
 <p align="center">
 		<a href="mailto:oliveiraslucaas@gmail.com" alt="Email">
-		<img width="90" hspace="0" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" />
+		<img width="50" hspace="0" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" />
 		</a>
 	 	<a href="https://www.linkedin.com/in/Oliveiralucaas" alt="Linkedin">
  		<img width="90" hspace="0" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
