@@ -16,9 +16,12 @@
 
 ## 🤝 Conecte-se comigo!
 <p align="center">
-		<a href="mailto:oliveiraslucaas@gmail.com">
-		<img width="90" hspace="3" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+		<a href="mailto:oliveiraslucaas@gmail.com" alt="Email">
+		<img width="90" hspace="3" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" />
+		</a>
 	 	<a href="https://www.linkedin.com/in/Oliveiralucaas" alt="Linkedin">
- 		<img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+ 		<img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white />
+		</a>
 		<a href="https://github.com/Oliveiralucaas">
-		<img width="90" hspace="3" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+		<img width="90" hspace="3" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+		</a>
