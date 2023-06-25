@@ -12,15 +12,6 @@
 
 <hr>
 
-<pre>
-💻 Sou um Desenvolvedor Back-End autodidata
-📚 Atualmente cursando Ánalise e Desenvolvimento de Sistemas
-📝 Tenho um forte interesse em Machine Learning e Inteligência Artificial
-🌟 Principais Linguagens: JavaScript | Node.js | MySQL | MongoDB | Express.js
-🚩 Interessado no desenvolvimento de aplicativos Back-End com Node.JS
-</pre>
-<hr>
-
 ## 🤝 Conecte-se comigo!
 <p align="center">
 	<a href="mailto:oliveiraslucaas@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -28,6 +19,8 @@
   <img width="90" hspace="3" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 	<a href="https://github.com/Oliveiralucaas"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
+
+## 💻 Tecnologias
 
 - :zap: Main language: <img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
