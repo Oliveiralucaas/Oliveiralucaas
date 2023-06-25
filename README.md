@@ -1,15 +1,8 @@
 <h1 align="center">
-Hello! I'm Lucas Gabriel.
+👋 Hi! I'm Lucas Gabriel.
 	
 </h1>
-<p align="center">
-	<a href="https://github.com/Oliveiralucaas">
-		<img src="https://komarev.com/ghpvc/?username=Oliveiralucaas&label=Profile%20views&color=0e75b6&style=flat" alt="Oliveiralucaas" />
-	</a>
-	<a href="https://github.com/">
-		<img src="https://img.shields.io/github/followers/Oliveiralucaas?label=Followers" alt="Oliveiralucaas" />
-	</a>
-</p>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/Oliveiralucaas">
