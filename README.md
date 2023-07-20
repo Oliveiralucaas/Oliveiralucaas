@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Oliveiralucaas">
-<img src="https://readme-typing-svg.herokuapp.com?lines=👋+Olá,+Me+chamo+Lucas+Gabriel;Atualmente+cursando+ADS;Web+Developer;Sempre%20aprendendo%20coisas%20novas&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=👋+Olá,+Me+chamo+Lucas+Gabriel;Atualmente+cursando+ADS;Software+Developer;Sempre%20aprendendo%20coisas%20novas&center=true&width=380&height=45">
 </a>
 </p>
 <hr>
