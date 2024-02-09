@@ -7,11 +7,11 @@
 
 ## <p align="center">💻 Tecnologias e Ferramentas</p>
 
-- :zap: Main language: <img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="JavaScript">
+- :zap: Main language: <img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="Python">
   ######
 - :bulb: Frontend: <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"><img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
-- 📡 Backend: <img align="center" alt="Lucas-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"><img align="center" alt="Lucas-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"><img align="center" alt="Lucas-DB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" Title="MongoDB"><img align="center" alt="Lucas-NoSql" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" Title="MySQL"><img align="center" alt="Lucas-Postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman" Title="Postman">
+- 📡 Backend: <img align="center" alt="Lucas-Python" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="Node.js"><img align="center" alt="Lucas-NoSql" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" Title="MySQL"><img align="center" alt="Lucas-Postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman" Title="Postman">
   ######
 
 <hr>
