@@ -7,7 +7,7 @@
 
 ## <p align="center">💻 Tecnologias e Ferramentas</p>
 
-- :zap: Main language: <img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
+- :zap: Main language: <img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="JavaScript">
   ######
 - :bulb: Frontend: <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"><img align="center" alt="Lucas-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"><img align="center" alt="Lucas-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
